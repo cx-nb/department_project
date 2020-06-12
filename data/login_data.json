@@ -1,0 +1,25 @@
+[
+  {
+    "case_name": "登录成功",
+    "request_body": {
+      "mobile": "13800000002",
+      "password": "123456"
+    },
+    "success": true,
+    "code": 10000,
+    "message": "操作成功",
+    "http_code": 200
+  },
+  {
+    "case_name": "多参",
+    "request_body": {
+      "mobile": "13800000002",
+      "password": "123456",
+      "more_params": "123"
+    },
+    "success": true,
+    "code": 10000,
+    "message": "操作成功",
+    "http_code": 200
+  }
+]

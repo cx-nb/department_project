@@ -1,0 +1,32 @@
+{
+  "add_dep": {
+    "depname": "菜鸡部",
+    "depcode": "00001",
+    "magname": "Tom",
+    "intoinfo": "天上宫阙",
+    "success": true,
+    "code": 10000,
+    "message": "操作成功",
+    "http_code": 200
+  },
+  "query_dep": {
+    "success": true,
+    "code": 10000,
+    "message": "操作成功",
+    "http_code": 200
+  },
+  "modify_dep": {
+    "depname": "老菜鸡部",
+    "depcode": "00002",
+    "success": true,
+    "code": 10000,
+    "message": "操作成功",
+    "http_code": 200
+  },
+  "delete_dep": {
+    "success": true,
+    "code": 10000,
+    "message": "操作成功",
+    "http_code": 200
+  }
+}
